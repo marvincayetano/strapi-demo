@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_stuff_notes",
+  "info": {
+    "displayName": "Note",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}
